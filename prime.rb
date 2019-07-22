@@ -1,5 +1,4 @@
 def prime?(num)
-  return false if num < 0
 
   n = 2
   while n < num
